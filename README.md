@@ -31,16 +31,16 @@ Staff:
 
 **Use-case Diagram :**
 
-![/docs/Phonecase Builder Usecase.drawio.png](Phonecase_Builder_Usecase.drawio.png)
+![Phonecase Builder Usecase.drawio.png](/docs/Phonecase_Builder_Usecase.drawio.png)
 
 ---
 
 **Package Diagram:**
 
-![/docs/Phone-Case Builder Package Diagram.drawio.png](Phone-Case_Builder_Package_Diagram.drawio.png)
+![Phone-Case Builder Package Diagram.drawio.png](/docs/Phone-Case_Builder_Package_Diagram.drawio.png)
 
 ---
 
 Database Design:
 
-![/docs/Phone-Case Builder Database Design.drawio.png](Phone-Case_Builder_Database_Design.drawio.png)
+![Phone-Case Builder Database Design.drawio.png](/docs/Phone-Case_Builder_Database_Design.drawio.png)
