@@ -6,7 +6,7 @@ import (
 )
 
 type CaseRepository interface {
-	SaveCase(*entity.Case) error
+	SaveCase(*entity.Case) (map[string]string, error)
 	SetCaseStatus(string, models.CaseStatus) error
 	GetCaseById(string) (*entity.Case, error)
 	GetCasesByOrderId(string) ([]*entity.Case, error)
